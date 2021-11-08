@@ -6,8 +6,8 @@ HDR is a good excuse to share research works, present them in an original, integ
 I've tried my best to synthesize my research results since 2008, in collaboration with many Masters' students, PhD students, interns, post-docs, engineers, professors, colleagues and friends.  
 The manuscript is entitled "Modelling, Reverse Engineering, and Learning Software Variability", 190 pages long. It will be available after the defense.
 
-The defense will take place in the room Métivier at IRISA/Inria Rennes, France. 
-The jury will remotely attend. It will be broacasted live through Zoom and Youtube (links are coming, stay tuned!). 
+The defense will take place *November 16, 3PM - 6PM (Paris local time, UTC+1)* in the room Métivier at IRISA/Inria Rennes, France 
+Most of the jury will remotely attend. It will be broacasted live through Zoom and Youtube (links are coming, stay tuned!). 
 
 ## Abstract
 
