@@ -11,7 +11,7 @@ The jury will remotely attend. It will be broacasted live through Zoom and Youtu
 
 ## Abstract
 
-> The society expects software to deliver the right functionality, in a
+> Society expects software to deliver the right functionality, in a
 > short amount of time and with fewer resources, in every possible
 > circumstance whatever are the hardware, the operating systems, the
 > compilers, or the data fed as input. For fitting such a diversity of
@@ -48,7 +48,7 @@ The jury will remotely attend. It will be broacasted live through Zoom and Youtu
 > semantic relationships between feature models and product comparison
 > matrices, a large class of tabular data. I then empirically
 > investigate how these feature models can be used to test in the large
-> configurable systems with different sampling strategies. Along this
+> configurable systems with different sampling strategies. Along with this
 > effort, I report on the attempts and lessons learned when defining the
 > "right" variability language. From a reverse engineering perspective,
 > I contribute to synthesize variability information into models and
@@ -68,7 +68,7 @@ The jury will remotely attend. It will be broacasted live through Zoom and Youtu
 > This process can even be applied to huge configuration space, such as
 > the Linux kernel one. 
 > 
-> Despite a wide applicability and observed benefits, I show that each
+> Despite wide applicability and observed benefits, I show that each
 > individual line of contributions has limitations. I defend the
 > following answer: a supervised, iterative process (1) based on the
 > combination of reverse engineering, modelling, and learning
