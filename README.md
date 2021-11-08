@@ -3,7 +3,7 @@
 [Habilitation à diriger des recherches](https://fr.wikipedia.org/wiki/Habilitation_%C3%A0_diriger_des_recherches) (aka HDR) is a diploma that "sanctions the recognition of the candidate's high scientific level, the originality of his or her approach in a field of science, his or her ability to master a research strategy in a sufficiently broad scientific or technological field and his or her capacity to supervise young researchers". 
 
 HDR is a good excuse to share research works, present them in an original, integrated way, and also provide long-term perspectives. 
-I've tried my best to synthesize my research results since 2008. 
+I've tried my best to synthesize my research results since 2008, in collaboration with many Masters' students, PhD students, interns, post-docs, engineers, professors, colleagues and friends.  
 The manuscript is entitled "Modelling, Reverse Engineering, and Learning Software Variability", 190 pages long. It will be available after the defense.
 
 The defense will take place in the room Métivier at IRISA/Inria Rennes, France. 
