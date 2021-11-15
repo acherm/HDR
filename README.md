@@ -8,7 +8,8 @@ The manuscript is entitled "Modelling, Reverse Engineering, and Learning Softwar
 
 The defense will take place *November 16, 3PM - 6PM ([Paris local time, UTC+1](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=11&day=16&hour=14&min=0&sec=0&p1=1264))* in the room Métivier at IRISA/Inria Rennes, France. 
 Most of the jury will remotely attend. The defense will be broacasted live through Youtube:
-https://youtu.be/w4qBwU7aavI 
+https://youtu.be/w4qBwU7aavI
+(Youtube will work, just in case Zoom link: https://univ-rennes1-fr.zoom.us/j/94336775571 secret code: 186301)
 
 ## Abstract
 
