@@ -1,4 +1,8 @@
-# Modelling, Reverse Engineering, and Learning Software Variability (HDR, Mathieu Acher)
+# Modelling, Reverse Engineering, and Learning Software Variability (HDR, Mathieu Acher
+
+**manuscript available** https://hal.inria.fr/tel-03521806
+**talk on Youtube** https://youtu.be/w4qBwU7aavI
+**slides** https://docs.google.com/presentation/d/1b56oo153z4j_BbqGfa5qebE4qDK1Nbh6cJXoluXaARw/edit?usp=sharing 
 
 [Habilitation à diriger des recherches](https://fr.wikipedia.org/wiki/Habilitation_%C3%A0_diriger_des_recherches) (aka HDR) is a diploma that "sanctions the recognition of the candidate's high scientific level, the originality of his or her approach in a field of science, his or her ability to master a research strategy in a sufficiently broad scientific or technological field and his or her capacity to supervise young researchers". 
 
@@ -9,7 +13,7 @@ The manuscript is entitled "Modelling, Reverse Engineering, and Learning Softwar
 The defense will take place *November 16, 3PM - 6PM ([Paris local time, UTC+1](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=11&day=16&hour=14&min=0&sec=0&p1=1264))* in the room Métivier at IRISA/Inria Rennes, France. 
 Most of the jury will remotely attend. **The defense will be broacasted live through Youtube**:
 https://youtu.be/w4qBwU7aavI
-(Youtube will work, just in case Zoom link: https://univ-rennes1-fr.zoom.us/j/94336775571 secret code: 186301)
+
 
 ## Abstract
 
